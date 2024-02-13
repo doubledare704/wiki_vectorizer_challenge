@@ -1,0 +1,6 @@
+wikipedia
+spacy
+scipy
+neo4j
+fastapi
+uvicorn[standard]
